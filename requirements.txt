@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+langchain
+langchain-community
+pydantic
+dotenv
+os
+requests
+json
